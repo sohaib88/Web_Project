@@ -76,11 +76,12 @@ Follow the following steps to get development environment running.
 ### Video :
  https://youtu.be/36TYDTmUNTQ
 ### Github : 
-
+https://github.com/sohaib88/Web_Project.git
 ### Group Members
-SohaibAhmad_(021-19-0016)
-JunaidAhmad_(021-19-0012)
-ChandniRai_(021-19-0011)
+Sohaib Ahmad (021-19-0016)
+Junaid Ahmad (021-19-0012)
+Chandni Rai (021-19-0011)
+
 
 
 
